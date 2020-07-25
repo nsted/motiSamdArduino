@@ -13,10 +13,10 @@
           "architecture": "samd",
           "version": "0.0.2",
           "category": "Contributed",
-          "url": "https://bitbucket.org/nsted/motisamdarduino    /raw/master/custom_board/RoboHat-0.0.12.zip",
+          "url": "https://bitbucket.org/nsted/motisamdarduino/raw/ba5415697e3dcb2bd71ca20a4fa18616e453b569/custom_board/moti-0.0.2.zip",
           "archiveFileName": "moti-0.0.2.zip",
-          "checksum": "6d68492dfe33ae3bb6bcad620ae447f1c9ad88aaf0b2d07983bcf0951c08c112",
-          "size": "2381077",
+          "checksum": "SHA-256:6d68492dfe33ae3bb6bcad620ae447f1c9ad88aaf0b2d07983bcf0951c08c112",
+          "size": "6406423",
           "boards": [
             {
               "name": "Moti"
