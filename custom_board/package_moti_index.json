@@ -11,15 +11,15 @@
         {
           "name": "RobotStack Boards",
           "architecture": "samd",
-          "version": "0.0.2",
+          "version": "0.0.12",
           "category": "Contributed",
-          "url": "https://github.com/nsted/motiSamdArduino/blob/master/custom_board/1.8.6.zip?raw=true",
-          "archiveFileName": "1.8.6.zip",
+          "url": "https://github.com/nsted/motiSamdArduino/blob/master/custom_board/moti-0.0.12.zip?raw=true",
+          "archiveFileName": "moti-0.0.12.zip",
           "checksum": "SHA-256:a1ec4e24b8be197ef0bccfb38b70450a1eee89d2ecbdfd379a0d17a89e0e15cf",
-          "size": "13111336",
+          "size": "4311618",
           "boards": [
             {
-              "name": "Moti"
+              "name": "moti"
             }
           ],
           "toolsDependencies":
