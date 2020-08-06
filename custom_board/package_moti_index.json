@@ -11,11 +11,11 @@
         {
           "name": "RobotStack Boards",
           "architecture": "samd",
-          "version": "0.0.12",
+          "version": "0.0.13",
           "category": "Contributed",
           "url": "https://github.com/nsted/motiSamdArduino/blob/master/custom_board/moti-0.0.12.zip?raw=true",
-          "archiveFileName": "moti-0.0.12.zip",
-          "checksum": "SHA-256:e68a1ce0f4f8ef13b9d36ed9bf7dddfde47a7be4dcc97d97cc37856cac3d227b",
+          "archiveFileName": "moti-0.0.13.zip",
+          "checksum": "SHA-256:f23cf9031e033c66f1ed2438d52a0c54acd5c7a83fdb0a07336d11ba9d7cf026",
           "size": "4311618",
           "boards": [
             {
